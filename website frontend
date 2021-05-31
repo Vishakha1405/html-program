@@ -1,0 +1,76 @@
+<html>
+ <head>
+  <title>
+    My city web page
+  </title>
+  <link rel="stylesheet"  href="stylee.css"/>
+ </head>
+<body>
+   <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Places</a></li>
+    <li><a href="#">About</a></li>
+    </ul>
+    <div>
+      <img src="html/gorakhnath.jpg" alt="Italian Trulli"  width="300 pix">
+      <img src="html/nauka.jpg" alt="Italian Trulli"  width="300 pix">
+      <img src="html/station.jpg" alt="Italian Trulli"  width="300 pix">
+      <img src="html/zoo.jpg" alt="Italian Trulli"  width="300 pix">
+     </div>
+        <div>
+          <h1>CREATIVITY IS INTELLGENCE <br>HAVING     FUN</h1>
+     </div>
+     <hr>
+     <pr>1.Gorakhpur takes its name from Gorakhnath, who was a saint and travelled widely across India and authored a number of texts that form a part of the canon of Nath Sampradaya.The Gorakhnath Math is a temple of the Nath monastic group of the Nath tradition. 
+      The Nath tradition was founded by guru Matsyendranath. This math is situated in Gorakhpur, Uttar Pradesh within a large premises. The temple performs various cultural and social activities and serves as the cultural hub of the city.
+      A shrine called Gorakhnath Mandir was built in his honour at the location. The musical Light and Sound Show in the evening is the main attraction these days.</pr>
+      <iframe width="360" height="215" 
+      src="https://www.youtube.com/embed/foWvOLeH2lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen></iframe>
+      <div>
+        <div>
+          <img src="html/eee.jpg" alt="Italian Trulli"  width="400 pix"> 
+        </div>
+        <hr>
+      <pr>2.Gita Press is the world's largest publisher of Hindu religious texts. It is located in Gorakhpur city of India's Uttar Pradesh state. It was founded in 1923 by Jaya Dayal Goyanka and Ghanshyam Das Jalan for promoting the principles of Sanatana Dharma. Hanuman Prasad Poddar better known as
+     "Bhaiji" was the founding and the lifetime editor of its noted magazine who also wrote articles with his pen name "SHIV", Kalyan.[2] It started publishing in 1927, with a circulation of 1,600 copies and at present its print order had reached 250,000 (in 2012). The Gita Press archives contain over 3,500 manuscripts including over 100 interpretations of the Bhagwad Gita.[3]</pr>
+       </div>
+       <h2>Magazines</h2>
+       <div>
+       <pr>
+        Kalyan (in Hindi) is a monthly magazine being published since 1927. It has articles devoted to various religious topics promoting uplifting thought and good deeds. Writings by Indian saints and scholars are regularly published in the magazine.
+        Kalyana-Kalpataru (in English) is also a monthly and has been published since 1934. Its contents are similar to Kalyan.
+        Neither of these magazines runs any advertisements.
+        Online Kalyana and Kalyana-Kalptaru Subscription</pr>
+        </div>
+        <div>
+          <hr>
+          <pr>3.Gorakhpur Junction railway station (station code::GKP) is located in the city of Gorakhpur in the Indian state of Uttar Pradesh. It has the world's longest railway platform.[1] It serves as the headquarters of the North Eastern Railway. The station offers Class A-1 railway station facilities.
+
+            Gorakhpur Junction railway station is a major railway station in the state of Uttar Pradesh especially in the Purvanchal region (Eastern Uttar Pradesh) and it connects Eastern Uttar Pradesh to Bihar, Nepal and Northern India to Bihar</pr>
+        </div>
+        <div>
+          <hr>
+        <pr>4.Ramgarh Tal is a lake located in Gorakhpur, Uttar Pradesh, India. In 1970, at its largest size, the lake covered an area of 723 hectares
+         (1,790 acres) with a circumference of 18 kilometres (11 mi). Today, it covers about 678 hectares (1,680 acres).In 1985, Vir Bahadur Singh became Chief Minister and formulated a plan to develop Ramgarh Tal as a tourist center. This plan was later abandoned following his death in 1989.
+
+         When Yogi Adityanath took over the role of Chief Minister of Uttar Pradesh in 2017, he unveiled plans to develop the lake into an 'international-level' tourist spot.[4][5] The UP government also unveiled plans to notify the lake under the Wetland Management Rules At present, the NGT (National Green Tribunal) manages upkeep and protection of the lake. Due to the activism of the NGT, construction work has been banned within a radius of 500 meters.
+
+         The water quality of Ramgarh Tal Lake has decreased over time due to it being used as a dumping ground for sewage by nearby residential colonies.</pr>
+         </div>
+         <div>
+          <img src="html/ccc.jpg" alt="Italian Trulli"  width="300 pix">
+          <img src="html/ddd.jpg" alt="Italian Trulli"  width="300 pix">
+          <img src="html/gate1.jpg" alt="Italian Trulli"  width="500 pix">
+          <img src="html/gate2.jpg" alt="Italian Trulli"  width="500 pix">
+          <img src="html/gate3.jpg" alt="Italian Trulli"  width="300 pix">
+          <img src="html/sss.jpg" alt="Italian Trulli"  width="300 pix">
+          <img src="html/vvv.jpg" alt="Italian Trulli"  width="300 pix">
+          <img src="html/qqq.jpg" alt="Italian Trulli"  width="300 pix">
+          <img src="html/rajghat.jpg" alt="Italian Trulli"  width="300 pix">
+          <img src="html/railway.jpg" alt="Italian Trulli"  width="300 pix">
+
+
+         </div>
+</body>
+</html>
